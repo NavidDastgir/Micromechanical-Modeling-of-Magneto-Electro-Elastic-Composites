@@ -13,7 +13,6 @@ This project utilizes the **Mori-Tanaka mean-field homogenization method** to pr
 ## 🚀 Key Features
 * **Mori-Tanaka Homogenization:** Implementation of the multi-phase Mori-Tanaka scheme for predicting effective moduli.
 * **Eshelby Tensor Calculation:** Accurate calculation of Eshelby tensors for spherical (particles) and disk-like (GNPs) inclusions.
-* **ME Coupling Prediction:** Calculation of the effective magnetoelectric voltage coefficient ($\alpha_{ME}$) resulting from the interaction between piezoelectric and piezomagnetic phases via stress transfer.
 * **Parametric Study:** Analysis of the effect of volume fractions on:
     * Elastic Stiffness ($C_{ij}$)
     * Piezoelectric Coefficients ($e_{ij}$)
