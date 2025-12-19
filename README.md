@@ -1,8 +1,8 @@
 
 # Micromechanical Modeling of MEE Composites: The Role of Graphene Nanoplatelets
 
-This repository contains the MATLAB implementation for the micromechanical modeling of **Magneto-Electro-Elastic (MEE)** multiphase composites. The code investigates the functional role of **Graphene Nanoplatelets (GNPs)** in enhancing the coupled properties of Cobalt Ferrite/Barium Titanate polymer-matrix composites.
-
+This repository contains the Abaqus script and MATLAB implementation for the micromechanical modeling of **Magneto-Electro-Elastic (MEE)** multiphase composites. The code investigates the functional role of **Graphene Nanoplatelets (GNPs)** in enhancing the coupled properties of Cobalt Ferrite/Barium Titanate polymer-matrix composites.
+In the first step, the mechanical properties of the GNPs/PDMS composite are predicted using the finite element method implemented in Abaqus. Subsequently, spherical piezoelectric and piezomagnetic fillers are incorporated into the composite, and the coupled mechanical and electromagnetic properties are evaluated using the Mori–Tanaka homogenization method in MATLAB.
 ## 📄 Project Overview
 This project utilizes the **Mori-Tanaka mean-field homogenization method** to predict the effective material properties of a complex multi-phase composite consisting of:
 1.  **Matrix:** Polymer (e.g., PDMS)
