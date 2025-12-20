@@ -20,8 +20,10 @@ This project utilizes the **Mori-Tanaka mean-field homogenization method** to pr
 
 ## 🛠️ How to Run
 1.  Clone this repository.
-2.  Open `Main_Code.m` (or your specific filename) in MATLAB.
-3.  Run the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Volume Fraction.
+2.
+ 
+4.  Run Dastgir_magnetomechanics.m the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Piezomagnetic Volume Fraction.
+5.  Run Dastgir_electric_properties.m the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Piezoelectric Volume Fraction.
 
 ## 📚 References
 This code is based on the material properties and theoretical framework presented in:
