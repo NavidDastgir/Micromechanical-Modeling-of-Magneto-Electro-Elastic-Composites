@@ -25,6 +25,8 @@ This project utilizes the **Mori-Tanaka mean-field homogenization method** to pr
  
 4.  Run Dastgir_magnetomechanics.m the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Piezomagnetic Volume Fraction.
 5.  Run Dastgir_electric_properties.m the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Piezoelectric Volume Fraction.
+6.  The excel file named (result of GNP vol on magnetimechanics properties.xlsx) presents the outputs of mechanical and magnetic properties of composite as function of the volume fractions of piezomagnetic and GNP fillers. For furthur detail, please refer to Figure 6 and 7 of the article.
+7.  The excel file named (result of GNP vol on electric properties.xlsx) presents the outputs of electric properties of composite as function of the volume fractions of piezoelectric and GNP fillers. For furthur detail, please refer to Figure 7 of the article.
 
 ## 📚 References
 This code is based on the material properties and theoretical framework presented in:
