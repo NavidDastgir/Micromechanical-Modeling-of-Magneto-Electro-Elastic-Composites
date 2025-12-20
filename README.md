@@ -11,7 +11,7 @@ This project utilizes the **Mori-Tanaka mean-field homogenization method** to pr
 4.  **Reinforcement:** Graphene Nanoplatelets (GNPs)
 
 ## 🚀 Key Features
-* **Finite Element Simulation:** predict mechanical properties of GNP/pdms nanocomposites using finite element method in Abaqus sotware.
+* **Finite Element Simulation:** predict mechanical properties of GNP/PDMS nanocomposites using finite element method in Abaqus sotware.
 * **Mori-Tanaka Homogenization:** Implementation of the multi-phase Mori-Tanaka scheme for predicting effective moduli.
 * **Eshelby Tensor Calculation:** Accurate calculation of Eshelby tensors for spherical piezoelectric and piezomagnetic fillers.
 * **Parametric Study:** Analysis of the effect of piezoelectric and piezomagnetic volume fractions, GNPs volume fraction, thickness, distribution types and effect of interphase layer on:
