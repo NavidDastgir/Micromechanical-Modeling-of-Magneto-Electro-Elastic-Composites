@@ -21,7 +21,7 @@ This project utilizes the **Mori-Tanaka mean-field homogenization method** to pr
 
 ## 🛠️ How to Run
 1.  Clone this repository.
-2.  In the Abaqus input file (.inp), the mechanical properties of the GNP/PDMS nanocomposite are predicted.
+2.  In the Abaqus Cae file (.Cae), the mechanical properties of the GNP/PDMS nanocomposite are predicted.
 3. These predicted mechanical properties of the nanocomposite are imported into the MATLAB code to predict the fully coupled magneto–electro–mechanical properties of the four-phase composite. 
 4.  Run Dastgir_magnetomechanics.m the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Piezomagnetic Volume Fraction.
 5.  Run Dastgir_electric_properties.m the script to generate property plots (Stiffness, Piezo-coefficients, etc.) vs. Piezoelectric Volume Fraction.
